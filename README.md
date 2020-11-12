@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Line added Locally before PULL
+=======
+#this is for the demo of the PULL cmd
+>>>>>>> 549820ffa3f9914dbdd06f030eb9641a6d2be53b
 # Sample Java Project
 
 This is a reference for setting up a new Ant-based Java project. It
